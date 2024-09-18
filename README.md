@@ -1,14 +1,14 @@
 #About Me
 
-##I'm Christin MP, a passionate and driven first-year Computer Science and Engineering student at Wayanad Government Engineering College. With a strong foundation in programming languages like Python and C++, I am actively building skills in web development (HTML, CSS, JavaScript), algorithms, and data structures to enhance my software engineering expertise.
+I'm Christin MP, a passionate and driven first-year Computer Science and Engineering student at Wayanad Government Engineering College. With a strong foundation in programming languages like Python and C++, I am actively building skills in web development (HTML, CSS, JavaScript), algorithms, and data structures to enhance my software engineering expertise.
 
-##I'm highly interested in ethical hacking, particularly in exploring cybersecurity tools like Kali Linux, and I'm expanding my knowledge in automation, web scraping (Beautiful Soup), and PDF manipulation with Python. I also enjoy working on algorithmic challenges, seeking to write efficient and clean code.
+I'm highly interested in ethical hacking, particularly in exploring cybersecurity tools like Kali Linux, and I'm expanding my knowledge in automation, web scraping (Beautiful Soup), and PDF manipulation with Python. I also enjoy working on algorithmic challenges, seeking to write efficient and clean code.
 Beyond coding, I aspire to become an entrepreneur, combining technical skills with innovative business ideas. I’m keen on learning graphic design, understanding the market, and discovering ways to creatively leverage my talents.
 
-##Currently, I'm focused on building a strong portfolio, exploring internship opportunities, and preparing for a future in software engineering. I aim to work with top companies, apply my knowledge to real-world problems, and eventually create impactful solutions as a tech entrepreneur.
+Currently, I'm focused on building a strong portfolio, exploring internship opportunities, and preparing for a future in software engineering. I aim to work with top companies, apply my knowledge to real-world problems, and eventually create impactful solutions as a tech entrepreneur.
 future in software engineering
 
-###Reach out : christinmp07@gmail.com
+-Reach out : christinmp07@gmail.com
 
 <!--
 **Chrizz-coder/Chrizz-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
